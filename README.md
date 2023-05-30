@@ -1,4 +1,4 @@
-## El reto
+## El reto - Examen Final de Front-End I de la carrera Certified Tech Developer.
 
 Su desafío es crear esta página de destino y hacer que se parezca lo más posible al diseño.
 
